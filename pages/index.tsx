@@ -21,6 +21,7 @@ const HomePage = () => {
     return () => window.removeEventListener('scroll', revealOnScroll)
   }, [])
   return (
+    
     <div className="font-sans text-gray-800 antialiased">
       <Navbar />
 
@@ -154,7 +155,7 @@ const HomePage = () => {
               <li>Unlimited เว็บไซต์ • ฐานข้อมูลไม่จำกัด</li>
               <li>SSL ฟรี • สำรองข้อมูลรายวัน</li>
             </ul>
-            <a href="pages/login.php" className="mt-6 block text-center px-4 py-2 rounded-lg bg-gray-900 text-white hover:bg-gray-800 transition">เริ่มต้น</a>
+            <a href="https://www.facebook.com/profile.php?id=100087575394420" className="mt-6 block text-center px-4 py-2 rounded-lg bg-gray-900 text-white hover:bg-gray-800 transition">เริ่มต้น</a>
           </div>
     
           <div className="card reveal relative rounded-2xl border-2 border-brand-200 bg-white p-6">
@@ -169,7 +170,7 @@ const HomePage = () => {
               <li>ระบบหลังบ้าน ใช้งานง่าย ยืดหยุ่นสูง</li>
               <li>โหลดเว็บ ไวทันใจ ลูกค้าไม่ต้องรอ</li>
             </ul>
-            <a href="pages/login.php" className="mt-6 block text-center px-4 py-2 rounded-lg bg-violet-600 text-white hover:bg-brand-700 transition">เลือกแพ็กเกจนี้</a>
+            <a href="https://www.facebook.com/profile.php?id=100087575394420" className="mt-6 block text-center px-4 py-2 rounded-lg bg-violet-600 text-white hover:bg-brand-700 transition">เลือกแพ็กเกจนี้</a>
           </div>
     
           <div className="card reveal rounded-2xl border border-gray-100 bg-white p-6">
@@ -183,7 +184,7 @@ const HomePage = () => {
               <li>พร้องใช้งาน</li>
               <li>ดูแล 24 ชั่วโมง</li>
             </ul>
-            <a href="pages/login.php" className="mt-6 block text-center px-4 py-2 rounded-lg border border-gray-200 hover:border-brand-300 transition">พูดคุยกับเรา</a>
+            <a href="https://www.facebook.com/profile.php?id=100087575394420" className="mt-6 block text-center px-4 py-2 rounded-lg border border-gray-200 hover:border-brand-300 transition">พูดคุยกับเรา</a>
           </div>
         </div>
       </div>
